@@ -18,8 +18,8 @@
 - 👯 I’m looking to collaborate on any meaningful projects related to microservices, AI or blockchain technology. 
 - 🤔 I’m looking for help with expanding my knowledge base and getting useful feedback.
 - 📫 How to reach me: 
-     Phone: +1(438)396-2679
-     Email: nicolaybang@gmail.com
+     <br>Phone: +1(438)396-2679
+     <br>Email: nicolaybang@gmail.com
 - ⚡ Fun fact: I was a cook and aspiring chef before I discovered my passion for programming
 
 
