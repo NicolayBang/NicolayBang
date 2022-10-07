@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on a full stack recipe book web service. Still in development, online for testing at: <href= "titepoule.com"/>
+- 🔭 I’m currently working on a full stack recipe book web service. Still in development, online for testing at: <a href="http://titepoule.herokuapp.com/"> titepoule.herokuapp.com </a> 
 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
