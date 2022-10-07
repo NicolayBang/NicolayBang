@@ -1,11 +1,10 @@
-### Hi there 👋
+### Hi there 👋. My name is Nicolay Bang. I am an aspiring full stack developper. During the lockdown I thought myself coding and found that I had a passion for code and computer sciences in general. This pushed me to complete a certificate in IT & Computers at Mcgill University. I have been living and breathing code since then. I am very eager to expand my knowledge and my skills either professionnaly, through personnal projects or even through open source projects.  
 
-<!--
-**NicolayBang/NicolayBang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
+- 🔭 I’m currently working on a full stack recipe book web service. Still in development, online for testing at: <src= "titepoule.com">
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
