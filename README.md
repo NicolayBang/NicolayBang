@@ -23,9 +23,6 @@
 - ⚡ Fun fact: I was a cook and aspiring chef before I discovered my passion for programming
 
 
-<div style="font-style: italic">“The computer was born to solve problems that did not exist before.” 
-— Bill Gates</div>
-
 <img
   src="https://github.com/NicolayBang/NicolayBang/blob/main/images/stat.svg"
   alt="Nicolay WakaTime Activity"
