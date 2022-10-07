@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img
+  src="https://github.com/NicolayBang/NicolayBang/blob/main/images/stat.svg"
+  alt="Avinal WakaTime Activity"
+/>
