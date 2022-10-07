@@ -14,7 +14,7 @@
    : <a href="https://github.com/NicolayBang/TitePouleCookBookClient"> TitePouleCookBookClient </a>
    <br>
    <a href="https://wakatime.com/badge/user/3b84aa92-86e3-4c60-b2cf-2ddec57f3517/project/bc6efa30-b90a-4233-8645-8e2447d849aa"><img           src="https://wakatime.com/badge/user/3b84aa92-86e3-4c60-b2cf-2ddec57f3517/project/bc6efa30-b90a-4233-8645-8e2447d849aa.svg" alt="wakatime"></a> : RecipeBookDB
-<br><br>
+<br>
 - 🌱 I’m currently learning microservice architecture
 - 👯 I’m looking to collaborate on any meaningful projects related to microservices, AI or blockchain technology. 
 - 🤔 I’m looking for help with expanding my knowledge base and getting useful feedback.
