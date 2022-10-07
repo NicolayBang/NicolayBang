@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on a full stack recipe book web service. Still in development, online for testing at: <a href="http://titepoule.herokuapp.com/"> titepoule.herokuapp.com </a><br>
  <a href="https://wakatime.com/badge/user/3b84aa92-86e3-4c60-b2cf-2ddec57f3517/project/05ad1f54-b789-4e49-a9e1-e01881992ee5"><img src="https://wakatime.com/badge/user/3b84aa92-86e3-4c60-b2cf-2ddec57f3517/project/05ad1f54-b789-4e49-a9e1-e01881992ee5.svg" alt="wakatime"></a>
-: <a href="https://gist.github.com/NicolayBang/76433a946fcd609f051046c6b09f08da">TitePouleCookBookServer</a><br>
+:TitePouleCookBookServer<br>
    <a href="https://wakatime.com/badge/user/3b84aa92-86e3-4c60-b2cf-2ddec57f3517/project/dcbfb145-6af7-4fcf-8a06-db0c90b2b341"><img src="https://wakatime.com/badge/user/3b84aa92-86e3-4c60-b2cf-2ddec57f3517/project/dcbfb145-6af7-4fcf-8a06-db0c90b2b341.svg" alt="wakatime"></a>
    : <a href="https://github.com/NicolayBang/TitePouleCookBookClient"> TitePouleCookBookClient </a>
    <br>
@@ -27,5 +27,9 @@
   src="https://github.com/NicolayBang/NicolayBang/blob/main/images/stat.svg"
   alt="Nicolay WakaTime Activity"
 />
+The current full stack project I am working on:
+<br>
+TitePouleCookBookServer: 
+<br>
 ![recipe-book-server](https://user-images.githubusercontent.com/101014289/194616876-087f7173-91da-4019-ae4b-3426aac0e210.png)
 
