@@ -27,4 +27,5 @@
   src="https://github.com/NicolayBang/NicolayBang/blob/main/images/stat.svg"
   alt="Nicolay WakaTime Activity"
 />
+![recipe-book-server](https://user-images.githubusercontent.com/101014289/194616876-087f7173-91da-4019-ae4b-3426aac0e210.png)
 
