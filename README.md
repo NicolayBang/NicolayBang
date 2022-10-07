@@ -16,9 +16,9 @@ TitePouleCookBookServer: <a href="https://wakatime.com/badge/user/3b84aa92-86e3-
      Email: nicolaybang@gmail.com
 - ⚡ Fun fact: I was a cook and aspiring chef before I discovered my passion for programming
 
-“The computer was born to solve problems that did not exist before.” 
-— Bill Gates
--->
+
+<span style="font-style: italic">“The computer was born to solve problems that did not exist before.” 
+— Bill Gates</span>
 
 <img
   src="https://github.com/NicolayBang/NicolayBang/blob/main/images/stat.svg"
