@@ -1,6 +1,6 @@
 ### Hi there 👋. My name is Nicolay Bang. I am an aspiring full stack developper.
 “The computer was born to solve problems that did not exist before.” 
-— Bill Gates
+<br> — Bill Gates
 
 
  During the lockdown I thought myself coding and found that I had a passion for code and computer sciences in general. This pushed me to complete a certificate in IT & Computers at Mcgill University. I have been living and breathing code since then. I am very eager to expand my knowledge and my skills either professionnaly, through personnal projects or even through open source projects.  
