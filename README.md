@@ -27,3 +27,4 @@
   src="https://github.com/NicolayBang/NicolayBang/blob/main/images/stat.svg"
   alt="Nicolay WakaTime Activity"
 />
+<script src="https://gist.github.com/NicolayBang/76433a946fcd609f051046c6b09f08da.js"></script>
