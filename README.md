@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 <img
   src="https://github.com/NicolayBang/NicolayBang/blob/main/images/stat.svg"
-  alt="Avinal WakaTime Activity"
+  alt="Nicolay WakaTime Activity"
 />
