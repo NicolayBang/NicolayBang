@@ -1,4 +1,7 @@
 ### Hi there 👋. My name is Nicolay Bang. I am an aspiring full stack developper.
+“If at first you don't succeed, try, try again.”
+<br>― William Edward Hickson
+
 “The computer was born to solve problems that did not exist before.” 
 <br> — Bill Gates
 
