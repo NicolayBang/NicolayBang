@@ -21,7 +21,7 @@ During the lockdown I taught myself coding and found that I had a passion for co
      <br>Phone: +1(438)396-2679
      <br>Email: nicolaybang@gmail.com
 - ⚡ Fun fact: I was a cook and aspiring chef before I discovered my passion for programming
-- <img src="[https://th.bing.com/th/id/R.f9ae620dc126f0ee16c425560d1d99a0?rik=P2MlSbi1gGWr%2fw&riu=http%3a%2f%2f3.bp.blogspot.com%2f-p66PMtXitMw%2fT-kcu24INpI%2fAAAAAAAAEtA%2fRYPLvJCKkV0%2fs1600%2fUkraine%2bFlag.jpg&ehk=SBcq%2bj5ZekGKmMUONurb%2bUKmW6PdsrhzB7QhYhvAWeM%3d&risl=&pid=ImgRaw&r=0](https://www.bing.com/images/search?view=detailV2&ccid=pKqfq735&id=26A0EABCC179A2C11488A39C1299416FAA51CBB5&thid=OIP.pKqfq735jTW2WGiNevcfZAHaFA&mediaurl=https%3A%2F%2Fth.bing.com%2Fth%2Fid%2FR.a4aa9fabbdf98d35b658688d7af71f64%3Frik%3DtctRqm9BmRKcow%26riu%3Dhttp%253a%252f%252fwww.enchantedlearning.com%252feurope%252fukraine%252fflag%252fFlagsmall.GIF%26ehk%3D98z8piptGfSAn%252fh9oop%252fCzy1id8bF6I7p4%252f1RFc3gVE%253d%26risl%3D%26pid%3DImgRaw%26r%3D0&exph=77&expw=114&q=ukraine+flag+tiny&simid=608040457620586145&form=IRPRST&ck=35193B0879D1EBFDBC52BF5945BE1A2D&selectedindex=1&qft=+filterui%3aimagesize-small&ajaxhist=0&ajaxserp=0&vt=0&sim=11)">  Slava Ukraini
+- <img src="https://th.bing.com/th/id/R.a4aa9fabbdf98d35b658688d7af71f64?rik=tctRqm9BmRKcow&riu=http%3a%2f%2fwww.enchantedlearning.com%2feurope%2fukraine%2fflag%2fFlagsmall.GIF&ehk=98z8piptGfSAn%2fh9oop%2fCzy1id8bF6I7p4%2f1RFc3gVE%3d&risl=&pid=ImgRaw&r=0">  Slava Ukraini
 </img>
 
 <img
