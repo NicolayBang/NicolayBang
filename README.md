@@ -2,10 +2,6 @@
 “If at first you don't succeed, try, try again.”
 <br>― William Edward Hickson
 
-“The computer was born to solve problems that did not exist before.” 
-<br> — Bill Gates
-
-
 During the lockdown I taught myself coding and found that I had a passion for code and computer sciences in general. This pushed me to complete a certificate in IT & Computers at McGill University. I have been living and breathing code since then. I am very eager to expand my knowledge and my skills either professionally, through personal projects or even through open source projects. 
 
 
