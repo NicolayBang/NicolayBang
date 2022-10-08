@@ -21,8 +21,6 @@ During the lockdown I taught myself coding and found that I had a passion for co
      <br>Phone: +1(438)396-2679
      <br>Email: nicolaybang@gmail.com
 - ⚡ Fun fact: I was a cook and aspiring chef before I discovered my passion for programming
-- <img src="https://th.bing.com/th/id/R.a4aa9fabbdf98d35b658688d7af71f64?rik=tctRqm9BmRKcow&riu=http%3a%2f%2fwww.enchantedlearning.com%2feurope%2fukraine%2fflag%2fFlagsmall.GIF&ehk=98z8piptGfSAn%2fh9oop%2fCzy1id8bF6I7p4%2f1RFc3gVE%3d&risl=&pid=ImgRaw&r=0">  Slava Ukraini
-</img>
 
 <img
   src="https://github.com/NicolayBang/NicolayBang/blob/main/images/stat.svg"
