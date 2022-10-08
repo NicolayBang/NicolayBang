@@ -21,7 +21,7 @@ During the lockdown I taught myself coding and found that I had a passion for co
      <br>Phone: +1(438)396-2679
      <br>Email: nicolaybang@gmail.com
 - ⚡ Fun fact: I was a cook and aspiring chef before I discovered my passion for programming
-- U+1F1E6 Slava Ukraini
+- &#127482 ;&#127462  Slava Ukraini
 
 
 <img
