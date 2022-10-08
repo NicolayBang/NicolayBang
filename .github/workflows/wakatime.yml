@@ -2,7 +2,7 @@ name: WakaTime status update
 
 on:
   push:
-    branches: [main]
+    branches: [deploy_heroku]
   schedule:
     - cron: "1 0 * * *"
     
