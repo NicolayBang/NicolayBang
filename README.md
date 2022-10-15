@@ -27,5 +27,5 @@ During the lockdown I taught myself coding and found that I had a passion for co
   src="https://github.com/NicolayBang/NicolayBang/blob/main/images/stat.svg"
   alt="Nicolay WakaTime Activity"
 />
-
+<figure><embed src="https://wakatime.com/share/@3b84aa92-86e3-4c60-b2cf-2ddec57f3517/fb6e3fba-0f5d-4251-9030-710dbecb710a.svg"></embed></figure>
 
