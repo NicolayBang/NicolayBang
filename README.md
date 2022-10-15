@@ -26,6 +26,7 @@ During the lockdown I taught myself coding and found that I had a passion for co
 <img
   src="https://github.com/NicolayBang/NicolayBang/blob/main/images/stat.svg"
   alt="Nicolay WakaTime Activity"
-/><br><br>
+/>
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@3b84aa92-86e3-4c60-b2cf-2ddec57f3517/edfa9a09-1e1e-4b48-af6a-771825a4b5c9.png" /></a>
+<br><br>
 N.B I have only been using wakatime since septeber the 20th. I have more Java hours than Javascript hours, but currently using Javascript and node.js a lot.
