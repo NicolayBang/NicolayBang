@@ -1,32 +1,61 @@
-### Hi there 👋. My name is Nicolay Bang. I am an aspiring full stack developper.
-“If at first you don't succeed, try, try again.”
-<br>― William Edward Hickson
-"(...) and again and again and again until it works" -Nicolay Bang
+# Hi, I’m Nicolay Bang
 
-During the lockdown I taught myself coding and found that I had a passion for code and computer sciences in general. This pushed me to complete a certificate in IT & Computers at McGill University. I have been living and breathing code since then. I am very eager to expand my knowledge and my skills either professionally, through personal projects or even through open source projects. 
+I’m a bilingual IT professional and computer science student based in Montreal, with experience in enterprise technical support, endpoint troubleshooting, application support, and workflow automation.
 
+I currently work in Level 2 technical support, where I troubleshoot Windows endpoints, Microsoft 365, VPN, AVD, BitLocker, certificates, access issues, and business critical user incidents in enterprise environments.
 
+I’m also building toward software, automation, and AI assisted development roles. My current focus is on practical systems that combine backend development, operational thinking, governance, and safe automation.
 
-- 🔭 I’m currently working on a full stack recipe book web service. Still in development, online for testing at: <a href="http://titepoule.herokuapp.com/"> titepoule.herokuapp.com </a><br><br>
-<a href="https://wakatime.com/badge/user/3b84aa92-86e3-4c60-b2cf-2ddec57f3517/project/05ad1f54-b789-4e49-a9e1-e01881992ee5"><img src="https://wakatime.com/badge/user/3b84aa92-86e3-4c60-b2cf-2ddec57f3517/project/05ad1f54-b789-4e49-a9e1-e01881992ee5.svg" alt="wakatime"></a>
-<a href="https://gist.github.com/NicolayBang/76433a946fcd609f051046c6b09f08da">RecipeBookServer</a>
-<br><a href="https://wakatime.com/badge/github/NicolayBang/RecipeBookClient"><img src="https://wakatime.com/badge/github/NicolayBang/RecipeBookClient.svg" alt="wakatime"></a>
-   <a href="https://github.com/NicolayBang/TitePouleCookBookClient">TitePouleCookBookClient</a><br>
-   <a href="https://wakatime.com/badge/user/3b84aa92-86e3-4c60-b2cf-2ddec57f3517/project/bc6efa30-b90a-4233-8645-8e2447d849aa"><img           src="https://wakatime.com/badge/user/3b84aa92-86e3-4c60-b2cf-2ddec57f3517/project/bc6efa30-b90a-4233-8645-8e2447d849aa.svg" alt="wakatime"></a>RecipeBookDB<br>
-<a href="https://wakatime.com/badge/user/3b84aa92-86e3-4c60-b2cf-2ddec57f3517/project/28dffc39-5dbf-47a1-ae78-215477c0bc6a"><img src="https://wakatime.com/badge/user/3b84aa92-86e3-4c60-b2cf-2ddec57f3517/project/28dffc39-5dbf-47a1-ae78-215477c0bc6a.svg" alt="wakatime">
-</a><a href=https://github.com/NicolayBang/deepai-image-microservice >deepai-image-microservice</a>
-- 🌱 I’m currently learning microservice architecture
-- 👯 I’m looking to collaborate on any meaningful projects related to microservices, AI or blockchain technology. 
-- 🤔 I’m looking for help with expanding my knowledge base and getting useful feedback.
-- 📫 How to reach me: 
-     <br>Phone: +1(438)396-2679
-     <br>Email: nicolaybang@gmail.com
-- ⚡ Fun fact: I was a cook and aspiring chef before I discovered my passion for programming
+## Current focus
 
-<!-- <img
-  src="https://github.com/NicolayBang/NicolayBang/blob/main/images/stat.svg"
-  alt="Nicolay WakaTime Activity"
-/> -->
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@3b84aa92-86e3-4c60-b2cf-2ddec57f3517/edfa9a09-1e1e-4b48-af6a-771825a4b5c9.png" /></a>
-<br><br>
-N.B I have only been using wakatime since late September. I have more Java hours than Javascript hours, but currently using Javascript and node.js a lot.
+I’m currently working on **ApplyPilot**, an early stage governed job application automation platform.
+
+The goal is not to build an uncontrolled auto apply bot. The project is designed around controlled workflow automation, with:
+
+* state machine driven application tracking
+* PostgreSQL as the source of truth
+* event logging and auditability
+* policy gates for permission and approval
+* dry run execution before real actions
+* human approved automation
+* FastAPI, PostgreSQL, Redis, SQLAlchemy, Alembic, and Docker Compose
+
+This project is helping me deepen my skills in backend architecture, API design, database modeling, workflow systems, AI assisted development, and DevOps practices.
+
+## Technical interests
+
+* Backend development
+* AI assisted software development
+* Agentic workflows and safe automation
+* Application support and production support
+* Endpoint engineering and Microsoft 365
+* DevOps fundamentals
+* System design and architecture
+* Workflow platforms and event driven systems
+
+## Background
+
+Before moving deeper into software and IT, I worked in hospitality as a cook. That background taught me urgency, discipline, pressure management, and practical problem solving.
+
+I later completed a Certificate in IT & Computers at McGill University and continued into a Bachelor’s degree in Computer Science at TÉLUQ.
+
+Professionally, I have supported enterprise users and business critical systems across environments involving finance, retail, managed services, endpoints, POS systems, Microsoft 365, VPN, and infrastructure adjacent troubleshooting.
+
+## Technologies I work with
+
+**Support and infrastructure:** Windows 10/11, Microsoft 365, Entra ID, Intune, AVD, VPN, BitLocker, LAPS, ServiceNow, SCCM, endpoint troubleshooting
+
+**Development:** Python, Java, JavaScript, SQL, FastAPI, Node.js, REST APIs, PostgreSQL, SQLAlchemy, Alembic
+
+**Tools and practices:** Git, GitHub, Docker, Docker Compose, technical documentation, incident analysis, workflow design, AI assisted development
+
+## What I’m looking for
+
+I’m interested in roles where I can combine technical support experience, software fundamentals, automation, and AI assisted development.
+
+The roles that interest me most are in application support, production support, backend development, technical implementation, AI workflow automation, and platform support.
+
+## Contact
+
+Email: [nicolaybang@gmail.com](mailto:nicolaybang@gmail.com)
+LinkedIn: https://www.linkedin.com/in/nicolay-bang/
